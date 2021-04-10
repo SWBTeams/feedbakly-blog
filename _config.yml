@@ -3,7 +3,7 @@ title: Feedbakly - Blog
 subtitle: The easiest way to give feedback
 author: feedbakly
 simple_search: http://google.com/search
-description: A blog on giving and receiving back
+description: A blog on giving and receiving feedback
 name: feedbakly
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"

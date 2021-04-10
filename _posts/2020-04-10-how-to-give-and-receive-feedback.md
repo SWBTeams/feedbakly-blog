@@ -2,6 +2,7 @@
 layout: post
 title:  "How to Give and Receive Feedback"
 date:   2021-04-10 09:46:04
+excerpt: "Critical feedback is an important part of the development process, even though it isn't always pleasant. Learn how to give and receive feedback"
 categories: feedback self-improvement 
 ---
 
