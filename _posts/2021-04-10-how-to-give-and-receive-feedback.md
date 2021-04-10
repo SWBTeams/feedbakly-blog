@@ -27,7 +27,7 @@ But how do you give and receive feedback in an effective and genuine manner?
 *   **Begin with a micro-yes**: The micro-yes approach begins with a short question that ensures a 'yes,' such as "Can I talk to you?" This opens up the possibility for a conversation.
 *   **Avoid being objective**: Feedback must be specific and backed up by data points, patterns, and genuine observations. Feedback should commend or highlight the process and not the individual. The other party should never feel attacked when you provide feedback.
 *   **Give it a sense of logic**: Refer to scenarios or data points that had an impact on you and connect them to the outcome of their actions. This gives the feedback a sense of meaning and logic.
-*   **Show willingness to help**: Great feedback concludes with a question. A simple question like "how can I help?" can go a long way. It fosters commitment rather than just compliance, resulting in a dialogue-driven, problem-solving environment.
+*   **Show willingness to help**: Great feedback concludes with a question. A simple question like "how can I help?" can go a long way. It fosters commitment rather than just compliance, resulting in a dialogue-driven, problem-solving experience.
 
 We've looked at how to give feedback; now let's look at how to receive one.
 
