@@ -47,7 +47,7 @@ You should never stop listening to your customers’ feedback, whether positive 
 * Customer feedback is a reliable source of information to potential and future consumers.
 * Feedback demonstrates that givers’ opinions are valued and can aid businesses in branding.
 
-Customer feedback has proven to be useful. One way to stay ahead in a saturated market is by making use of reliable and automated customer feedback tools. In a corporate environment, people might not feel comfortable approaching you for feedback, you should leverage anonymous feedback tools like [feedbakly](https://feedbakly.com) to hear their voices.
+Customer feedback has proven to be useful. One way to stay ahead in a saturated market is by making use of reliable and automated customer feedback tools. 
 
 In a corporate environment, people might not feel comfortable approaching you for feedback, you should leverage anonymous feedback tools like [feedbakly](https://feedbakly.com) to hear their voices.
 
