@@ -1,24 +1,23 @@
 ---
 title: How to Give and Receive Feedback
-date: 2021-04-10 05:46:04 -04:00
+date: 2021-04-10 05:46:00 -04:00
 categories:
 - feedback
 - self-improvement
-layout: post
 excerpt: Critical feedback is an important part of the development process, even though
   it isn't always pleasant. Learn how to give and receive feedback
+layout: post
 ---
 
 ![Receiving feedback](../assets/img/feedback.jpg)
 
 <small>*Photo by [Celpax](https://unsplash.com/@celpax?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/feedback?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)* </small> 
 
-Feedback is said to be a blessing that keeps on giving. We provide feedback to people so that they can improve and better support others. Feedback comes in various forms; in written languages, in words, or a gesture that offers an evaluation of behavior. Giving and getting feedback will help you develop by reinforcing your current strengths and highlighting your weaknesses.
+Feedback is said to be a blessing that keeps on giving. We provide feedback to people so that they can improve and better support others. Feedback comes in various forms. It can come in written languages, in words, or gestures that offer an evaluation of behavior. Providing and receiving feedback will help you grow by reinforcing your current strengths and highlighting your weaknesses.
 
-Critical feedback is an important part of the development process, even though it isn't always pleasant. Feedback must be conveyed in a way that’s effective, thorough, actionable, and dialogue-driven.
+Critical feedback is an important part of a self-development process, even though it's not always pleasant. Feedback must be conveyed in a way that’s effective, thorough, actionable, and dialogue-driven.
 
-A common method people use when providing feedback is the classic feedback sandwich, in which you say something positive, followed by something negative, and then top it off with something positive. When giving feedback, you should avoid tip-toeing and sugar-coating to make the feedback more effective.
-
+A common method people use when providing feedback is the classic feedback sandwich, in which you say something positive, followed by something negative, and then top it off with something positive. When providing feedback, it's important to avoid tip-toeing and sugar-coating to make feedback more effective.
 
 
 But how do you give and receive feedback in an effective and genuine manner?
@@ -32,19 +31,19 @@ But how do you give and receive feedback in an effective and genuine manner?
 
 We've looked at how to give feedback; now let's look at how to receive one.
 
-To receive feedback, you must understand that it is not an attack and be open to opinions with which you may not always agree. Opinions that have the potential to stimulate growth. You are not to be defensive. You simply need to listen and ask clarifying questions.
+To receive feedback, you must understand that it is not an attack and be open to opinions that you may not always agree with. Opinions sometimes have the potentials to stimulate growth. That is why you should not be defensive. You simply need to listen and ask clarifying questions.
 
 
 ## Why Is Constant Feedback Important?
 
 Whether you're trying to gauge employee or customer satisfaction, feedback should be a long-term process. Unfortunately, many businesses do not devote enough time to a sound feedback process.
 
-Feedback is especially useful when making important decisions. You can manage customer satisfaction and loyalty, maintain customer retention, and improve your products and services by leveraging customer feedback. Customer experience is critical to a company's survival, especially in today's world where customers rely heavily on online reviews when deciding what product to buy.
+Feedback is especially useful when making important decisions. You can manage and measure customer satisfaction and loyalty, maintain customer retention, and improve your products and services by leveraging customer feedback. Customer experience is critical to a company's survival, especially in today's world where customers rely heavily on online reviews when deciding what product to buy.
 
 You should never stop listening to your customers’ feedback, whether positive or negative, to stay ahead of the competition. Here are a few reasons why customer feedback is essential:
 
 
-* Customer feedback can aid in the development of new products and services. This increases the usability of the product and opens up new markets.
+* Customer feedback can aid the development of new products and services. This increases the usability of the product and opens up new markets.
 * Customer feedback is a reliable source of information to potential and future consumers.
 * Feedback demonstrates that givers’ opinions are valued and can aid businesses in branding.
 
