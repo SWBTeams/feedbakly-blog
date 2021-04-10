@@ -1,16 +1,29 @@
-baseurl: ''
+---
 title: Feedbakly - Blog
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: ''
 subtitle: The easiest way to give feedback
 author: feedbakly
 simple_search: http://google.com/search
 description: A blog on giving and receiving feedback
 name: feedbakly
 markdown: kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-permalink: /:short_year/:title
-timezone: America/New_York
-excerpt_separator: <!--more-->  # you can specify your own separator, of course.
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+permalink: "/:short_year/:title"
+excerpt_separator: "<!--more-->"
+exclude:
+- Gemfile
+- Gemfile.lock
+- Rakefile
+- UploadToGithub.Rakefile
+- README.md
 post:
   template: _post.txt
   extension: md
@@ -18,10 +31,3 @@ page:
   template: _page.txt
   extension: md
 editor: gvim
-# git:
-#   branch: master
-# transfer:
-#   command: rsync
-#   settings: -av
-#   source: _site/
-#   destination: ~/Git/clayh53.github.com/

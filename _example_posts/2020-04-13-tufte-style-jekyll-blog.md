@@ -1,7 +1,7 @@
 ---
+title: Tufte-style Jekyll blog
+date: 2020-04-13 05:46:04 -04:00
 layout: post
-title:  "Tufte-style Jekyll blog"
-date:   2020-04-13 09:46:04
 categories: jekyll css
 ---
 
